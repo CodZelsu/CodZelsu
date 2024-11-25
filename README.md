@@ -1,4 +1,4 @@
-# ⛓︎ About Me:
+# ⛓⚉ About Me:
 Atualmente trabalho em uma empresa do ramo óptico e curso Analise e Desenvolvimento de Sistemas. Busco uma oportunidade de aprender e melhorar minhas habilidades e me consolidar nessa área do mercado.
 
 
