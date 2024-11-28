@@ -3,6 +3,7 @@ Atualmente trabalho em uma empresa do ramo óptico e curso Analise e Desenvolvim
 
 
 ## 🌐 Socials:
+[![TikTok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@codzelsu?is_from_webapp=1&sender_device=pc)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=996705279&text&type=phone_number&app_absent=0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welsoncristhianwelson@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/off.alonex) 
