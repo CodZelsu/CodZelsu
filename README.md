@@ -7,7 +7,7 @@ Atualmente trabalho em uma empresa do ramo óptico e curso Analise e Desenvolvim
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welsoncristhianwelson@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/off.alonex) 
 [![TikTok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@codzelsu?is_from_webapp=1&sender_device=pc)
-[![Linkedin](https://img.shields.io/badge/%40-Linkedin-blue)
+[![Linkedin](https://img.shields.io/badge/%40-Linkedin-blue)](www.linkedin.com/in/welson-cristhian-075b96300)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
