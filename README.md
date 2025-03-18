@@ -18,6 +18,7 @@ Atualmente trabalho em uma empresa do ramo óptico e curso Analise e Desenvolvim
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![JS](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CodZelsu&icon=0&color=4)](https://visitcount.itsvg.in)
